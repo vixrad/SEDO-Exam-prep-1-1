@@ -20,3 +20,6 @@ document.getElementById('btn-subtract').addEventListener('click', () => {
 });
 
 // Change 3
+// Change 4
+// Change 5
+// Change 6
